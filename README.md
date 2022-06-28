@@ -44,14 +44,8 @@ You have the option of choosing between the default and small button sizes depen
 
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples)
 
-
-### License
-
-This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples).
-
 ### About Syncfusion Blazor Components
 The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Button, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram, Word Processor, and more.
-
 
 ### About Syncfusion
 

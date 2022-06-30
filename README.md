@@ -24,7 +24,7 @@ You have the option of choosing between the default and small button sizes depen
 
 ## Related links
 
-[Learn More about Button ](https://www.syncfusion.com/blazor-components/blazor-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples)
+[Learn More about Button](https://www.syncfusion.com/blazor-components/blazor-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples)
 

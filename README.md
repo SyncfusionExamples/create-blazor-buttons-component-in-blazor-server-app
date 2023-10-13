@@ -2,11 +2,16 @@
 
 The [Blazor Buttons Component](https://www.syncfusion.com/blazor-components/blazor-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-button-github-samples) is a custom HTML5 button control. It has several built-in features such as support for icons, predefined styles, different button types, different button sizes, and UI customization. Learn how easily you can create and configure Syncfusion Blazor Button component in a Blazor Server App using Visual Studio 2019. In this video, you will learn how to add a simple Blazor Button to a Blazor server app. You will see how to add icons to Blazor Buttons and change the icon positions. Also, you will learn how to toggle the button state as well as how to add predefined styles to Blazor Button. Finally, you will see how to bind a click event to this Blazor Button component.
 
-## Project pre-requisites
-Make sure that you have the compatible versions of Visual Studio 2019 and .NET Core SDK latest version(3.1.2) in your machine before starting to work on this project.
+## Prerequisites
 
-## How to run this application?
-To run this application, you need to first clone the create-blazor-button-components-in-blazor-server-app repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and Benefits 
 
